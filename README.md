@@ -1,6 +1,10 @@
 
 # C语言
 > 注意 只会记录重要部分
+* day1 数据类型与分支结构
+* day2 数组与指针
+* day3 函数、作用域、快排
+
 ## Hello World
 
 创建 helloworld.c
