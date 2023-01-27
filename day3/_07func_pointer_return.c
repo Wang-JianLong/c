@@ -16,7 +16,6 @@ int add(int a, int b)
 		return a + b;
 }
 
-
 int calc(int (*fp)(int,int),
 				int a, int b)
 {
