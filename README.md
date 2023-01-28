@@ -4,7 +4,7 @@
 * day1 数据类型与分支结构
 * day2 数组与指针
 * day3 函数、作用域、快排
-
+* day4 内存、堆栈、宏、结构体
 ## Hello World
 
 创建 helloworld.c
