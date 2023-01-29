@@ -7,6 +7,7 @@
 * day4 内存、堆栈、宏、结构体
 * day5 typedef、枚举、共用体、字节
 * day6 文件IO、ERROR、缓冲区 
+* 后续 多线程、网络套接字、数据库
 ## Hello World
 
 创建 helloworld.c
